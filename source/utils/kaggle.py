@@ -10,7 +10,7 @@ from collections import OrderedDict
 import os
 from pathlib import Path
 
-from .image import NORMALIZE
+from utils.image import NORMALIZE
 
 
 """Required labels for Kaggle submissions."""

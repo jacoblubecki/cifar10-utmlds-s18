@@ -13,6 +13,3 @@ Architecture uses 18 layers based on [residual networks](https://arxiv.org/pdf/1
 # Score
 
 ![](https://github.com/jacoblubecki/cifar10-utmlds-s18/blob/master/score.png)
-
-
-#### EID: jcl3342
